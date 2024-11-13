@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Variable 1`] = `
+"variable &tfgquot;name&tfgquot;{
+type = string
+default = &tfgquot;value&tfgquot;
+}
+
+"
+`;
+
+exports[`Variable 2`] = `"var.name"`;
+
+exports[`Variable 3`] = `"var.name.attr"`;

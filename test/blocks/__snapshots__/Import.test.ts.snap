@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Import 1`] = `
+"import{
+to = type.name
+id = &tfgquot;id&tfgquot;
+provider = arg
+}
+
+"
+`;

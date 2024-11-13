@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Provisioner 1`] = `
+"provisioner &tfgquot;local-exec&tfgquot;{
+command = &tfgquot;cmd&tfgquot;
+when = destroy
+on_failure = fail
+}
+
+"
+`;

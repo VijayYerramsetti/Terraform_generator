@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Block arguments 1`] = `{}`;
+
+exports[`Block arguments 2`] = `
+{
+  "a": 1,
+}
+`;
+
+exports[`Block arguments 3`] = `
+{
+  "a": 0,
+  "b": 1,
+  "c": 2,
+}
+`;
+
+exports[`Block arguments 4`] = `
+{
+  "a": 0,
+  "c": 2,
+}
+`;
+
+exports[`Block arguments 5`] = `
+[
+  Provisioner {
+    "blockNames": [
+      "local-exec",
+    ],
+    "blockType": "provisioner",
+    "type": "local-exec",
+  },
+  Provisioner {
+    "blockNames": [
+      "remote-exec",
+    ],
+    "blockType": "provisioner",
+    "type": "remote-exec",
+  },
+]
+`;
+
+exports[`Block arguments 6`] = `[]`;
